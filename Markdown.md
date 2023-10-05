@@ -56,3 +56,5 @@
 
 Например: 
 <spam style="color:#FFB6C1">
+
+git push
